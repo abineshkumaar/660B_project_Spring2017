@@ -1,4 +1,5 @@
 # 660B_project_Spring2017
+Job Popularity Predictor
 Project Done for web analytics class - Team No. 5
 
 1. Run script.py code to scrape job application data from careerbuilder.com (Job name, Applicants, Date, Description)
