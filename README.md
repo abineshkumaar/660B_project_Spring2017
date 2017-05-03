@@ -11,4 +11,4 @@ Project Done for web analytics class - Team No. 5
 - From the traintest.csv take 70% of data and build train.csv data set for training the machine learning algorithm.
 - From the traintest.csv take the rest 30% data and build test.csv for testing it with the trained model.
 3. Run ml.py (Predicting popularity of the jobs):
-- This code has various machine learning classification algorithms to train and test with the built data sets.
+- Job Popularity prediction code, this predicts whether a job is popular in a scale of 1 to 5.
