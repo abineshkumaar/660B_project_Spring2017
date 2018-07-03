@@ -1,5 +1,4 @@
-## Version  4.1.1
-## @author: Mohammed Yusuf Khan
+
 
 from bs4 import BeautifulSoup
 import time
